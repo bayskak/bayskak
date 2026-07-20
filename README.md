@@ -21,7 +21,3 @@ Passionate Go Backend Developer with commercial experience in building high-perf
 
 ---
 
-### 📊 GitHub Stats
-![Bakhytbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=bayskak&show_icons=true&theme=radium)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayskak&layout=compact&theme=radium)
--->

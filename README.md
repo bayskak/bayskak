@@ -6,7 +6,7 @@ Passionate Go Backend Developer with commercial experience in building high-perf
 - 🔭 **Current Focus:** Building scalable Go services, Worker Pools, and Hexagonal Architecture.
 - 💼 **Experience:** Backend Developer at IP Group & CTOgram.
 - 🎓 **Education:** Eurasian National University (Applied Mathematics) & Alem School graduate.
-- 📫 **How to reach me:** bad.sad0123456789@gmail.com | [LinkedIn](https://linkedin.com) | Telegram: @badsad0123456789-design
+- 📫 **How to reach me:** bad.sad0123456789@gmail.com | [LinkedIn](https://linkedin.com) | Telegram: @bakytbek1009
 
 ---
 

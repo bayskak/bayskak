@@ -1,4 +1,4 @@
-# Hi there, I'm Bakhytbek 👋
+# Hi there, I'm Baqytbek 👋
 ### Backend Developer (Go / Golang)
 
 Passionate Go Backend Developer with commercial experience in building high-performance, concurrent microservices, data processing systems, and modern AI/RAG integrations.
@@ -17,7 +17,7 @@ Passionate Go Backend Developer with commercial experience in building high-perf
 **Databases & Caching:** PostgreSQL, Redis, S3 / MinIO  
 **Messaging:** RabbitMQ  
 **AI & RAG:** ChromaDB, Whisper, LLM integrations, Multi-agent systems  
-**DevOps & Tools:** Docker, Docker Compose, Git, Linux, Bash  
+**DevOps & Tools:** Docker, Docker Compose, Git, Linux, Bash
 
 ---
 

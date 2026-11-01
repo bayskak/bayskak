@@ -1,23 +1,22 @@
-# Hi there, I'm Baqytbek 👋
-### Backend Developer (Go / Golang)
+<h1 align="center">Hi there, I'm Baqytbek 👋</h1> <p align="center"> <a href="https://github.com/bayskak"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Backend+Developer+%E2%80%A2+Go+%2F+Golang;Microservices+%E2%80%A2+Concurrency+%E2%80%A2+Worker+Pools;Clean+%26+Hexagonal+Architecture;AI+%2F+RAG+Integrations" alt="Typing SVG" /> </a> </p> <h3 align="center">🚀 Backend Developer • Go • Microservices • AI/RAG</h3> <p align="center"> <img src="https://img.shields.io/badge/Location-Kazakhstan-0b1b2b?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=555" /> <img src="https://img.shields.io/badge/Backend-Go%20(Golang)-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=555" /> <img src="https://img.shields.io/badge/Architecture-Hexagonal%20%2F%20Clean-6f42c1?style=for-the-badge&logo=databricks&logoColor=white&labelColor=555" /> <br/> <img src="https://img.shields.io/badge/Focus-AI%20%2F%20RAG-ff6f00?style=for-the-badge&logo=openai&logoColor=white&labelColor=555" /> <img src="https://img.shields.io/badge/Open%20to-Opportunities-2ea44f?style=for-the-badge&logo=handshake&logoColor=white&labelColor=555" /> <img src="https://komarev.com/ghpvc/?username=bayskak&label=Profile%20Views&color=e05d44&style=for-the-badge" /> </p>
+🧑‍💻 About Me
 
-Passionate Go Backend Developer with commercial experience in building high-performance, concurrent microservices, data processing systems, and modern AI/RAG integrations.
+I'm a passionate Go Backend Developer with commercial experience building high-performance, concurrent microservices, data processing systems and modern AI/RAG integrations.
 
-- 🔭 **Current Focus:** Building scalable Go services, Worker Pools, and Hexagonal Architecture.
-- 💼 **Experience:** Backend Developer at IP Group & CTOgram.
-- 🎓 **Education:** Eurasian National University (Applied Mathematics) & Alem School graduate.
-- 📫 **How to reach me:** bad.sad0123456789@gmail.com | [LinkedIn](https://linkedin.com) | Telegram: @bakytbek1009
-
----
-
-### 🛠️ Tech Stack
-
-**Languages & Core:** Go (Golang), SQL, HTML  
-**Backend & Architecture:** REST API, Clean / Hexagonal Architecture, Microservices, Worker Pools, Concurrency  
-**Databases & Caching:** PostgreSQL, Redis, S3 / MinIO  
-**Messaging:** RabbitMQ  
-**AI & RAG:** ChromaDB, Whisper, LLM integrations, Multi-agent systems  
-**DevOps & Tools:** Docker, Docker Compose, Git, Linux, Bash
-
----
-
+🔭 Current Focus: Scalable Go services, Worker Pools and Hexagonal Architecture
+💼 Experience: Backend Developer at IP Group & CTOgram
+🎓 Education: Eurasian National University (Applied Mathematics) & Alem School graduate
+⚡ Fun fact: I love squeezing every bit of performance out of goroutines and channels
+🛠️ Tech Stack
+<h4 align="center">Languages & Core</h4> <p align="center"> <img src="https://skillicons.dev/icons?i=go,postgres,html&theme=dark" /> </p> <h4 align="center">Databases, Caching & Messaging</h4> <p align="center"> <img src="https://skillicons.dev/icons?i=postgres,redis,rabbitmq&theme=dark" /> </p> <h4 align="center">DevOps & Tools</h4> <p align="center"> <img src="https://skillicons.dev/icons?i=docker,git,linux,bash,github&theme=dark" /> </p> <h4 align="center">Skill Shields</h4> <p align="center"> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" /> <img src="https://img.shields.io/badge/MinIO%20%2F%20S3-C72E49?style=for-the-badge&logo=minio&logoColor=white" /> <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge&logo=databricks&logoColor=white" /> <img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/LLM%20Integrations-10A37F?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Multi--Agent%20Systems-8A2BE2?style=for-the-badge&logo=probot&logoColor=white" /> </p>
+🏗️ What I Build
+Area	Details
+⚙️ Architecture	Clean / Hexagonal Architecture, Microservices
+🔀 Concurrency	Goroutines, channels, Worker Pools, graceful shutdown
+📨 Messaging	Event-driven services on RabbitMQ
+🗄️ Storage	PostgreSQL, Redis caching, S3 / MinIO object storage
+🤖 AI / RAG	ChromaDB vector search, Whisper speech-to-text, LLM pipelines, multi-agent systems
+📊 GitHub Stats
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=bayskak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayskak&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=bayskak&theme=tokyonight&hide_border=true" /> </p>
+📫 Let's Connect
+<p align="center"> <a href="mailto:bad.sad0123456789@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/bakytbek-yskak-1317493a7//"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://t.me/bakytbek1009"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /> </a> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=00ADD8&height=100&section=footer" /> </p>
